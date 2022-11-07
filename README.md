@@ -4,7 +4,7 @@
 
 # PLATEAU LOD2建物データのOpenStreetMap用コンバーターの開発(Java)
 
-地球社会共生学部　地球社会共生学科　4年A組153番
+青山学院大学 地球社会共生学部 地球社会共生学科 4年A組153番
 
 学籍番号：1A119128　
 
@@ -30,6 +30,8 @@
 https://docs.google.com/spreadsheets/d/1sQpJR7FnUbqRURUpNo9xf2Z2i2gX-a8ZcWz6Vt3131k/edit#gid=0
 
 ## プロジェクト管理
+
+https://github.com/orgs/furuhashilab/projects/21/views/1
 
 ## 中間発表
 
