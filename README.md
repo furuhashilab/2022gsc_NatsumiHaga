@@ -23,7 +23,7 @@
 
 ・[OSMへのインポート](https://qiita.com/nyampire/items/1c10afdd36750c87154d)
 
-・[PLATEAUデータのマインクラフト化](https://qiita.com/nyampire/items/1c10afdd36750c87154d)
+・[PLATEAUデータのマインクラフト化](https://qiita.com/nyampire/items/0f46cc38109acd0c70c8)
 
 ## 参考文献・参考資料リスト
 
