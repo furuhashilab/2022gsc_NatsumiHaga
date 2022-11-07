@@ -19,11 +19,11 @@
 
 ## 先行研究
 
-・
+・[PLATEAU](https://www.mlit.go.jp/plateau/new-service/4-010/)
 
-・
+・[OSMへのインポート](https://qiita.com/nyampire/items/1c10afdd36750c87154d)
 
-・
+・[PLATEAUデータのマインクラフト化](https://qiita.com/nyampire/items/1c10afdd36750c87154d)
 
 ## 参考文献・参考資料リスト
 
@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1sQpJR7FnUbqRURUpNo9xf2Z2i2gX-a8ZcWz6Vt31
 
 https://github.com/orgs/furuhashilab/projects/21/views/1
 
-## 中間発表
+## 中間発表(2022.11.8)
 
 ・Medium
 
