@@ -37,7 +37,7 @@ https://github.com/orgs/furuhashilab/projects/21/views/1
 
 ・Medium
 
-
+https://medium.com/furuhashilab/卒論中間発表-26c0ccf2a3c5
 
 ・Google Slides
 
